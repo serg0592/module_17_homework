@@ -1,0 +1,96 @@
+.body__form {
+    margin: 0px 0px;
+}
+
+.body__output {
+    margin: 10px 0px;
+}
+
+.form-input, .output-text {
+    display: inline-block;
+    width: 373px;
+    height: 21px;
+    border: 5px solid #ffae75;
+    border-radius: 20px;
+    padding: 2px 2px;
+    margin-top: 1px;
+}
+
+.output-text {
+    width: 691px;
+    height: 600px;
+}
+
+.input {
+    position: relative;
+    left: 4px;
+    border: none;
+    font-size: 16px;
+    padding: 1px 6px;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.form-btn-send, .form-btn-geo {
+    display: inline-block;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+.btn-send {
+    background-color: #ffae75;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 2px;
+    font-size: 16px;
+}
+
+.btn-send:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn-geo {
+    background-color: #ffffff;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid #ffae75;
+    color: #ffae75;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 2px;
+    font-size: 16px;
+}
+
+.btn-geo:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.server-msg {
+    word-wrap: break-word;
+    max-width: 300px;
+    border: 5px solid #ffae75;
+    border-radius: 20px;
+    margin: 0px 0px;
+    padding: 3px 6px;
+}
+
+.server-msg-link {
+    word-wrap: break-word;
+    max-width: 300px;
+    border: 5px solid #ffae75;
+    border-radius: 20px;
+    text-decoration: none;
+    color: rgb(255, 153, 58);
+    margin: 0px 0px;
+    padding: 3px 6px;
+}
+
+.message-cloud {
+    margin: 5px 0px;
+}

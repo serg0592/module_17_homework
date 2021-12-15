@@ -1,0 +1,35 @@
+.body {
+    background-color:  rgb(255, 213, 183);
+}
+
+.body__svg-fin {
+    background-color: white;
+}
+
+.body__svg-che {
+    background-color: red;
+}
+
+.rus-white, .fra-white, .che-white-v, .che-white-h, .jap-white {
+    fill: white;
+}
+
+.rus-blue, .fra-blue, .fin-blue-v, .fin-blue-h {
+    fill: blue;
+}
+
+.rus-red, .fra-red, .jap-circle {
+    fill: red;
+}
+
+.fra-blue {
+    display: inline-block;
+}
+
+.fra-white {
+    display: inline-block;
+}
+
+.fra-red {
+    display: inline-block;
+}
